@@ -1,2 +1,2 @@
-# python_game
-Jogo feito em pygame
+# python game pos graduacao 
+Jogo feito em pygame para meteria de python scripts, pos em cloud computing
